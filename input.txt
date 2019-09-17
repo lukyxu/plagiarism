@@ -1,0 +1,132 @@
+To the classical mechanics (no less than) to the special relativity theory, is attached an epistemological defect, which
+was perhaps first clearly pointed out by E. Mach. We shall illustrate it by the following example; Let two fluid
+bodies of equal kind and magnitude swim freely in space at such a great distance from one another (and from all
+other masses) that only that sort of gravitational forces are to be taken into account which the parts of any of these
+bodies exert upon each other. The distance of the bodies from one another is invariable. The relative motion of the
+different parts of each body is not to occur. But each mass is seen to rotate by an observer at rest relative to the other
+mass round the connecting line of the masses with a constant angular velocity (definite relative motion for both the
+masses). Now let us think that the surfaces of both the bodies ( and ) are measured with the help of
+measuring rods (relatively at rest); it is then found that the surface of is a sphere and the surface of the other is an
+ellipsoid of rotation. We now ask, why is this difference between the two bodies? An answer to this question can
+only then be regarded as satisfactory[2] from the epistemological standpoint when the thing adduced as the cause is
+an observable fact of experience. The law of causality has the sense of a definite statement about the world of
+experience only when observable facts alone appear as causes and effects.
+The Newtonian mechanics does not give to this question any satisfactory answer. For example, it says:— The laws
+of mechanics hold true for a space relative to which the body is at rest, not however for a space relative to
+which is at rest.
+
+The Galiliean space, which is here introduced is however only a purely imaginary cause, not an observable thing. It
+is thus clear that the Newtonian mechanics does not, in the case treated here, actually fulfil the requirements of
+causality, but produces on the mind a fictitious complacency, in that it makes responsible a wholly imaginary cause
+for the different behaviours of the bodies and which are actually observable.
+A satisfactory explanation to the question put forward above can only be thus given:— that the physical system
+composed of and shows for itself alone no conceivable cause to which the different behaviour of and
+can be attributed. The cause must thus lie outside the system. We are therefore led to the conception that the general
+laws of motion which determine specially the forms of and must be of such a kind, that the mechanical
+behaviour of and must be essentially conditioned by the distant masses, which we had not brought into the
+system considered. These distant masses, (and their relative motion as regards the bodies under consideration) are
+then to be looked upon as the seat of the principal observable causes for the different behaviours of the bodies under
+consideration. They take the place of the imaginary cause . Among all the conceivable spaces and etc.
+moving in any manner relative to one another, there is a priori, no one set which can be regarded as affording greater
+advantages, against which the objection which was already raised from the standpoint of the theory of knowledge
+cannot be again revived. The laws of physics must be so constituted that they should remain valid for any system of
+co-ordinates moving in any manner. We thus arrive at an extension of the relativity postulate.
+
+Besides this momentous epistemological argument, there is also a well-known physical fact which speaks in favour
+of an extension of the relativity theory. Let there be a Galiliean co-ordinate system K relative to which (at least in the
+four-dimensional region considered) a mass at a sufficient distance from other masses move uniformly in a line. Let
+be a second co-ordinate system which has a uniformly accelerated motion relative to K. Relative to any
+mass at a sufficiently great distance experiences an accelerated motion such that its acceleration and its direction of
+acceleration is independent of its material composition and its physical conditions.
+
+Can any observer, at rest relative to , then conclude that he is in an actually accelerated reference-system? This
+is to be answered in the negative; the above-named behaviour of the freely moving masses relative to can be
+explained in as good a manner in the following way. The reference-system has no acceleration. In the
+space-time region considered there is a gravitation-field which generates the accelerated motion relative to .
+
+This conception is feasible, because to us the experience of the existence of a field of force (namely the gravitation
+field) has shown that it possesses the remarkable property of imparting the same acceleration to all bodies.[3] The
+mechanical behaviour of the bodies relative to is the same as experience would expect of them with reference to
+systems which we assume from habit as stationary; thus it explains why from the physical stand-point it can be
+assumed that the systems K and can both with the same legitimacy be taken as at rest, that is, they will be
+equivalent as systems of reference for a description of physical phenomena.
+
+From these discussions we see, that the working out of the general relativity theory must, at the same time, lead to a
+theory of gravitation; for we can "create" a gravitational field by a simple variation of the co-ordinate system. Also
+we see immediately that the principle of the constancy of light-velocity must be modified, for we recognise easily
+that the path of a ray of light with reference to must be, in general, curved, when light travels with a definite and
+constant velocity in a straight line with reference to K.
+
+In the classical mechanics as well as in the special relativity theory, the co-ordinates of time and space have an
+immediate physical significance; when we say that any arbitrary point has as its co-ordinate, it signifies that
+the projection of the point-event on the -axis ascertained by means of a solid rod according to the rules of
+Euclidean Geometry is reached when a definite measuring rod, the unit rod, can be carried times from the origin
+of co-ordinates along the axis. A point having as the co-ordinate signifies that a unit clock which
+is adjusted to be at rest relative to the system of co-ordinates, and coinciding in its spatial position, with the
+point-event and set according to some definite standard has gone over periods before the occurrence of the
+point-event.
+
+This conception of time and space is continually present in the mind of the physicist, though often in an unconscious
+way, as is clearly recognised from the role which this conception has played in physical measurements. This
+conception must also appear to the reader to be lying at the basis of the second consideration of the last paragraph
+and imparting a sense to these conceptions. But we wish to show that we are to abandon it and in general to replace it
+by more general conceptions in order to be able to work out thoroughly the postulate of general relativity,— the case
+of special relativity appearing as a limiting case when there is no gravitation.
+
+We introduce in a space, which is free from Gravitation-field, a Galiliean Co-ordinate System K(x, y, z, t) and also,
+another system K'(y', y', z', t') rotating uniformly relative to K. The origin of both the systems as well as their Z-axes
+might continue to coincide. We will show that for a space-time measurement in the system , the above
+established rules for the physical significance of time and space can not be maintained. On grounds of symmetry it is
+clear that a circle round the origin in the X-Y plane of K, can also be looked upon as a circle in the - plane of
+. Let us now think of measuring the circumference and the diameter of these circles, with a unit measuring rod
+(infinitely small compared with the radius) and take the quotient of both the results of measurement. If this
+experiment be carried out with a measuring rod at rest relatively to the Galiliean system K we would get π, as the
+quotient.
+
+The result of measurement with a rod relatively at rest as regards would be a number which is greater than
+π. This can be seen easily when we regard the whole measurement-process from the system K and remember that the
+rod placed on the periphery suffers a Lorentz-contraction, not however when the rod is placed along the radius.
+Euclidean Geometry therefore does not hold for the system ; the above fixed conceptions of co-ordinates which
+assume the validity of Euclidean Geometry fail with regard to the system . We cannot similarly introduce in a time
+corresponding to physical requirements, which will be shown by all similarly prepared clocks at rest relative to the
+system . In order to see this we suppose that two similarly made clocks are arranged one at the centre and one at the
+periphery of the circle, and considered from the stationary system K. According to the well-known results of the
+special relativity theory it follows — (as viewed from K) — that the clock placed at the periphery will go slower
+than the second one which is at rest. The observer at the common origin of co-ordinates who is able to see the clock
+at the periphery by means of light will see the clock at the periphery going slower than the clock beside him. Since
+he cannot allow the velocity of light to depend explicitly upon the time in the way under consideration he will
+interpret his observation by saying that the clock on the periphery "actually" goes slower than the clock at the origin.
+He cannot therefore do otherwise than define time in such a way that the rate of going of a clock depends on its
+position.
+
+We therefore arrive at this result. In the general relativity theory time and space magnitudes cannot be so defined that
+the difference in spatial co-ordinates can be immediately measured by the unit-measuring rod, and time-like
+co-ordinate difference with the aid of a normal clock.
+
+The means hitherto at our disposal, for placing our co-ordinate system in the time-space continuum, in a definite
+way, therefore completely fail and it appears that there is no other way which will enable us to fit the co-ordinate
+system to the four-dimensional world in such a way, that by it we can expect to get a specially simple formulation of
+the laws of Nature. So that nothing remains for us but to regard all conceivable[5] co-ordinate systems as equally
+suitable for the description of natural phenomena. This amounts to the following law:—
+
+That in general, Laws of Nature are expressed by means of equations which are valid for all co-ordinate systems,
+that is, which are covariant for all possible transformations. It is clear that a physics which satisfies this postulate
+will be unobjectionable from the standpoint of the general relativity postulate. Because among all substitutions there
+are, in every case, contained those, which correspond to all relative motions of the co-ordinate system (in three
+dimensions). This condition of general covariance which takes away the last remnants of physical objectivity from
+space and time, is a natural requirement, as seen from the following considerations. All our well-substantiated
+space-time propositions amount to the determination of space-time coincidences. If, for example, the event consisted
+in the motion of material points, then, for this last case, nothing else are really observable except the encounters
+between two or more of these material points. The results of our measurements are nothing else than well-proved
+theorems about such coincidences of material points, of our measuring rods with other material points, coincidences
+between the hands of a clock, dial-marks and point-events occurring at the same position and at the same time.
+
+The introduction of a system of co-ordinates serves no other purpose than an easy description of totality of such
+coincidences. We fit to the world our space-time variables such that to any and every point-event
+corresponds a system of values of . Two coincident point-events correspond to the same value of the
+variables ; i.e., the coincidence is characterised by the equality of the co-ordinates. If we now introduce
+any four functions as coordinates, so that there is an unique correspondence between them, the
+equality of all the four co-ordinates in the new system will still be the expression of the space-time coincidence of
+two material points. As the purpose of all physical laws is to allow us to remember such coincidences, there is a
+priori no reason present, to prefer a certain co-ordinate system to another; i.e., we get the condition of general
+covariance
